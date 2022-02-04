@@ -31,7 +31,7 @@ const SetUp = () => {
     <div className="h-full pl-px pt-2 flex flex-col">
       <div className="flex flex-none mb-1 justify-between">
         <div className="text-2xl ml-2">
-          ABM
+          ABModel
         </div>
         <div>
           <span>Model:</span>
